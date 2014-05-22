@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<portfolio>
+  <portfolioName>Vamsee Jasti's Equity Long</portfolioName>
+  <position>
+    <positionTicker>AAPL</positionTicker>
+    <positionOpenDate> 05/03/2014</positionOpenDate>
+    <positionSize>10</positionSize>
+    <executionPrice>500</executionPrice>
+  </position>
+  <position>
+    <positionTicker>GOOG</positionTicker>
+    <positionOpenDate> 01/03/2014</positionOpenDate>
+    <positionSize>50</positionSize>
+    <executionPrice>1000</executionPrice>
+  </position>
+
+  <position>
+    <positionTicker>MSFT</positionTicker>
+    <positionOpenDate> 06/03/2014</positionOpenDate>
+    <positionSize>10</positionSize>
+    <executionPrice>35</executionPrice>
+  </position>
+
+  <position>
+    <positionTicker>LNKD</positionTicker>
+    <positionOpenDate> 06/03/2014</positionOpenDate>
+    <positionSize>15</positionSize>
+    <executionPrice>200</executionPrice>
+  </position>
+  <position>
+    <positionTicker>BAC</positionTicker>
+    <positionOpenDate> 08/03/2014</positionOpenDate>
+    <positionSize>200</positionSize>
+    <executionPrice>16</executionPrice>
+  </position>
+  <position>
+    <positionTicker>GS</positionTicker>
+    <positionOpenDate> 06/03/2014</positionOpenDate>
+    <positionSize>20</positionSize>
+    <executionPrice>160</executionPrice>
+  </position>
+  <position>
+    <positionTicker>JPM</positionTicker>
+    <positionOpenDate> 01/03/2014</positionOpenDate>
+    <positionSize>20</positionSize>
+    <executionPrice>54</executionPrice>
+  </position>
+</portfolio>
+
+
+
+
+

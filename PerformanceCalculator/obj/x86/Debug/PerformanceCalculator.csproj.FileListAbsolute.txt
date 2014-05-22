@@ -1,0 +1,8 @@
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\obj\x86\Debug\PerformanceCalculator.Properties.Resources.resources
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\obj\x86\Debug\PerformanceCalculator.csproj.GenerateResource.Cache
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\bin\Debug\PerformanceCalculator.exe
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\bin\Debug\PerformanceCalculator.pdb
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\obj\x86\Debug\PerformanceCalculator.exe
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\obj\x86\Debug\PerformanceCalculator.pdb
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\obj\x86\Debug\PerformanceCalculator.Form1.resources
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\obj\x86\Debug\PerformanceCalculator.csprojResolveAssemblyReference.cache

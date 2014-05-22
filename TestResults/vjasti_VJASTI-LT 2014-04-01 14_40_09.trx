@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="99cc42c8-32c8-4dae-845c-2cfb333e29a6" name="vjasti@VJASTI-LT 2014-04-01 14:40:09" runUser="CRDHOME\vjasti" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5f9fd84d-a3bb-4311-95f7-7551bf5f83ab">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vjasti_VJASTI-LT 2014-04-01 14_40_09">
+      <DeploymentItem filename="C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\bin\Debug\PerformanceCalculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-04-01T14:40:09.0846672-04:00" queuing="2014-04-01T14:40:09.0946692-04:00" start="2014-04-01T14:40:09.1016706-04:00" finish="2014-04-01T14:40:09.3417186-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="calculateDailyPnL" storage="c:\developer\code\c#\performancecalculator\performancecalculatortest\bin\debug\performancecalculatortest.dll" id="b359ac73-bada-8576-09dc-507744b173a8">
+      <Execution id="03ab8017-8916-4752-ba59-c8a99c24b5db" />
+      <TestMethod codeBase="C:/developer/code/c#/PerformanceCalculator/PerformanceCalculatorTest/bin/Debug/PerformanceCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PerformanceCalculator.CalculatorTest, PerformanceCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculateDailyPnL" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b359ac73-bada-8576-09dc-507744b173a8" executionId="03ab8017-8916-4752-ba59-c8a99c24b5db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="03ab8017-8916-4752-ba59-c8a99c24b5db" testId="b359ac73-bada-8576-09dc-507744b173a8" testName="calculateDailyPnL" computerName="VJASTI-LT" duration="00:00:00.0173750" startTime="2014-04-01T14:40:09.1056714-04:00" endTime="2014-04-01T14:40:09.3287160-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="03ab8017-8916-4752-ba59-c8a99c24b5db">
+    </UnitTestResult>
+  </Results>
+</TestRun>

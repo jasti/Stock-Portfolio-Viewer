@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1759e79c-fac6-452e-9e36-09e23774cc47" name="vjasti@VJASTI-LT 2014-04-01 14:58:06" runUser="CRDHOME\vjasti" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5f9fd84d-a3bb-4311-95f7-7551bf5f83ab">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vjasti_VJASTI-LT 2014-04-01 14_58_06">
+      <DeploymentItem filename="C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\bin\Debug\PerformanceCalculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-04-01T14:58:06.3530778-04:00" queuing="2014-04-01T14:58:06.3630798-04:00" start="2014-04-01T14:58:06.3720816-04:00" finish="2014-04-01T14:58:06.6211314-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="calculateTotalPnLTest" storage="c:\developer\code\c#\performancecalculator\performancecalculatortest\bin\debug\performancecalculatortest.dll" id="843f2ac4-32a2-7f26-9c71-9c6096b99c50">
+      <Execution id="866e811b-4e6b-46f0-92d5-62a1d9031122" />
+      <TestMethod codeBase="C:/developer/code/c#/PerformanceCalculator/PerformanceCalculatorTest/bin/Debug/PerformanceCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PerformanceCalculator.CalculatorTest, PerformanceCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculateTotalPnLTest" />
+    </UnitTest>
+    <UnitTest name="calculateDailyPnLTest" storage="c:\developer\code\c#\performancecalculator\performancecalculatortest\bin\debug\performancecalculatortest.dll" id="94e02fc0-3e6f-4eff-c08c-cba1cc964723">
+      <Execution id="4d474f18-8b92-45e8-aeb5-a48628653f8c" />
+      <TestMethod codeBase="C:/developer/code/c#/PerformanceCalculator/PerformanceCalculatorTest/bin/Debug/PerformanceCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PerformanceCalculator.CalculatorTest, PerformanceCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculateDailyPnLTest" />
+    </UnitTest>
+    <UnitTest name="calculatePortfolioTotalsTest" storage="c:\developer\code\c#\performancecalculator\performancecalculatortest\bin\debug\performancecalculatortest.dll" id="277612fd-b17b-db68-32b7-e03e4c2efd1f">
+      <Execution id="a1309ccc-b723-49e4-8c92-6d38c59af655" />
+      <TestMethod codeBase="C:/developer/code/c#/PerformanceCalculator/PerformanceCalculatorTest/bin/Debug/PerformanceCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PerformanceCalculator.CalculatorTest, PerformanceCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculatePortfolioTotalsTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="277612fd-b17b-db68-32b7-e03e4c2efd1f" executionId="a1309ccc-b723-49e4-8c92-6d38c59af655" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="843f2ac4-32a2-7f26-9c71-9c6096b99c50" executionId="866e811b-4e6b-46f0-92d5-62a1d9031122" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94e02fc0-3e6f-4eff-c08c-cba1cc964723" executionId="4d474f18-8b92-45e8-aeb5-a48628653f8c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a1309ccc-b723-49e4-8c92-6d38c59af655" testId="277612fd-b17b-db68-32b7-e03e4c2efd1f" testName="calculatePortfolioTotalsTest" computerName="VJASTI-LT" duration="00:00:00.0143370" startTime="2014-04-01T14:58:06.3770826-04:00" endTime="2014-04-01T14:58:06.5941260-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a1309ccc-b723-49e4-8c92-6d38c59af655">
+    </UnitTestResult>
+    <UnitTestResult executionId="866e811b-4e6b-46f0-92d5-62a1d9031122" testId="843f2ac4-32a2-7f26-9c71-9c6096b99c50" testName="calculateTotalPnLTest" computerName="VJASTI-LT" duration="00:00:00.0006029" startTime="2014-04-01T14:58:06.5961264-04:00" endTime="2014-04-01T14:58:06.6001272-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="866e811b-4e6b-46f0-92d5-62a1d9031122">
+    </UnitTestResult>
+    <UnitTestResult executionId="4d474f18-8b92-45e8-aeb5-a48628653f8c" testId="94e02fc0-3e6f-4eff-c08c-cba1cc964723" testName="calculateDailyPnLTest" computerName="VJASTI-LT" duration="00:00:00.0003815" startTime="2014-04-01T14:58:06.6011274-04:00" endTime="2014-04-01T14:58:06.6051282-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d474f18-8b92-45e8-aeb5-a48628653f8c">
+    </UnitTestResult>
+  </Results>
+</TestRun>

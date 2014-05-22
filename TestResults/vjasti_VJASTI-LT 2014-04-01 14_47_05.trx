@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0af50767-588e-4708-aa8c-1fd61bb05881" name="vjasti@VJASTI-LT 2014-04-01 14:47:05" runUser="CRDHOME\vjasti" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5f9fd84d-a3bb-4311-95f7-7551bf5f83ab">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vjasti_VJASTI-LT 2014-04-01 14_47_05">
+      <DeploymentItem filename="C:\developer\code\c#\PerformanceCalculator\PerformanceCalculator\bin\Debug\PerformanceCalculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-04-01T14:47:05.0188374-04:00" queuing="2014-04-01T14:47:05.0268390-04:00" start="2014-04-01T14:47:05.0388414-04:00" finish="2014-04-01T14:47:05.2698876-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="calculateTotalPnLTest" storage="c:\developer\code\c#\performancecalculator\performancecalculatortest\bin\debug\performancecalculatortest.dll" id="843f2ac4-32a2-7f26-9c71-9c6096b99c50">
+      <Execution id="22626a5c-0241-4544-a29f-6ce7b55647a0" />
+      <TestMethod codeBase="C:/developer/code/c#/PerformanceCalculator/PerformanceCalculatorTest/bin/Debug/PerformanceCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PerformanceCalculator.CalculatorTest, PerformanceCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="calculateTotalPnLTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="843f2ac4-32a2-7f26-9c71-9c6096b99c50" executionId="22626a5c-0241-4544-a29f-6ce7b55647a0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="22626a5c-0241-4544-a29f-6ce7b55647a0" testId="843f2ac4-32a2-7f26-9c71-9c6096b99c50" testName="calculateTotalPnLTest" computerName="VJASTI-LT" duration="00:00:00.0382255" startTime="2014-04-01T14:47:05.0398416-04:00" endTime="2014-04-01T14:47:05.2488834-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22626a5c-0241-4544-a29f-6ce7b55647a0">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;3000&gt;. Actual:&lt;200&gt;. </Message>
+          <StackTrace>   at PerformanceCalculator.CalculatorTest.calculateTotalPnLTest() in C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\CalculatorTest.cs:line 40
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

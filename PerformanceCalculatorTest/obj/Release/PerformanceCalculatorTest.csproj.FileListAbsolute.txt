@@ -1,0 +1,7 @@
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\bin\Release\PerformanceCalculatorTest.dll
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\bin\Release\PerformanceCalculatorTest.pdb
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\bin\Release\PerformanceCalculator.exe
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\bin\Release\PerformanceCalculator.pdb
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\obj\Release\PerformanceCalculatorTest.csprojResolveAssemblyReference.cache
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\obj\Release\PerformanceCalculatorTest.dll
+C:\developer\code\c#\PerformanceCalculator\PerformanceCalculatorTest\obj\Release\PerformanceCalculatorTest.pdb
