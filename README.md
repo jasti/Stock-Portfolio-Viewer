@@ -1,8 +1,8 @@
 Stock-Portfolio-Viewer
 ======================
 
-**A C# windows thick client that is useful for monitoring your own portfolio holdings. Simply edit the portfolio.xml file with you positions and the run the solutions.
-You will get real time data from Yahoo and also other performance ( Daily and Cost Basis) oriented metrics assosciated with your portfolio.**
+**A C# Windows thick client that is useful for monitoring your own portfolio holdings. Simply edit the portfolio.xml file with you stocks you hold and the initial price you bought them at and the run the solution.
+Real time equity data price feed from Yahoo has been implemented and also other performance ( Daily and Cost Basis) oriented metrics associated with your portfolio.**
 
 Instruction to run: 
 -------------------
