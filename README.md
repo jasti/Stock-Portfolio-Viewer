@@ -7,7 +7,7 @@ You will get real time data from Yahoo and also other performance ( Daily and Co
 Instruction to run: 
 -------------------
 
-1. Checkout the project to any location.
+1. Checkout the project to any location. Main class is PerformanceCalculator\Engine.cs
 
 2. Open the ‘PerformanceCalculator.sln’ in visual studio. You can either run or debug the solution directly from Visual Studio.
 
