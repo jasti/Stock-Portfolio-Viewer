@@ -1,8 +1,9 @@
 Stock-Portfolio-Viewer
 ======================
 
-A C# Windows thick client that is useful for monitoring your own portfolio holdings. Simply edit the portfolio.xml file with you stocks you hold and the initial price you bought them at and the run the solution.
-Real time equity data price feed from Yahoo has been implemented and also other performance ( Daily and Cost Basis) oriented metrics associated with your portfolio.
+A C# Windows thick client that is useful for monitoring your own portfolio holdings. Simply edit the portfolio.xml file with the stocks you hold and the initial price you bought them at and run the solution. Real time equity data price feed from Yahoo has been implemented and also other performance ( Daily and Cost Basis) oriented metrics associated with your portfolio.
+
+Makes it easier to just have this app open if you are on windows, instead of having to open a web browser each time you want to check your stock performance.
 
 Instruction to run: 
 -------------------
@@ -15,7 +16,7 @@ Instruction to run:
 
 4. The approximate wait time before the screen appears is about 5 seconds for the first time. This is mainly due to the lag in calling the Yahoo Finance API. Engine.cs is the main class.
 
-5. When loaded, you should see the screen below : 
+5. When loaded, you should see the screen below. Not exactly a piece of art, but gets the job done!
 
 ![alt tag](https://raw.githubusercontent.com/jasti/Stock-Portfolio-Viewer/master/assets/screenshot.png)
 
